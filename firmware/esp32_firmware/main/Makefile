@@ -1,0 +1,2 @@
+// Arquivo: Makefile
+// Projeto SmartLock
